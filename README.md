@@ -16,7 +16,7 @@
 
 <img alt="Github Repo Sponsors" src="https://img.shields.io/github/sponsors/tbakerx?style=flat&color=blueviolet">
 
-## React based template for software developer-focused resume websites
+## React based template for software developer focused resume websites
 
 </div>
 
